@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "type=north": {
+      "model": "verticalslab:block/vertical_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/acacia_planks"
+    },
+    "type=south": {
+      "model": "verticalslab:block/vertical_slab_south"
+    },
+    "type=east": {
+      "model": "verticalslab:block/vertical_slab_east"
+    },
+    "type=west": {
+      "model": "verticalslab:block/vertical_slab_west"
+    }
+  }
+}
+
